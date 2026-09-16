@@ -1,3 +1,36 @@
+/*
+Write a C++ program to perform multiplication of two large integers (numbers too large to fit
+into built-in integer types). You are required to implement two different methods:
+1. Primary School Method
+- Implement the digit-by-digit multiplication algorithm, similar to the way multiplication is
+taught in school.
+- Operate directly on string or vector representations of the numbers.
+2. Karatsuba Multiplication Method
+- Implement the recursive Karatsuba algorithm for large number multiplication.
+- Compare its performance with the primary school method for various input sizes.
+Input:
+- Two non-negative integers (each can have up to 10,000 digits).
+- The numbers will be provided as strings.
+
+Output:
+- Display the product of the two numbers using the primary school method.
+- Display the product using the Karatsuba method.
+- Optionally, measure and display the execution time for each method.
+Example:
+• Input:
+123456789
+987654321
+• Output (Primary School Method):
+121932631112635269
+• Output (Karatsuba Method):
+121932631112635269
+Tasks:
+1. Implement string multiplyPrimarySchool(string a, string b) for the primary school method.
+2. Implement string multiplyKaratsuba(string a, string b) for the Karatsuba method.
+3. Ensure both methods handle leading zeros correctly and work for very large inputs.
+4. Compare execution time for inputs of different sizes.
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>

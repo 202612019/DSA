@@ -1,3 +1,10 @@
+/*
+Explain the concept of inheritance in C++ using a real-world example of an Employee
+Management System. Create a base class Employee and two derived classes Manager and
+Developer. Implement functions display_Manager() and display_Developer() to display the
+respective details.
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;

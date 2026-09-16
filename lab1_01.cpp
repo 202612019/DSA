@@ -1,3 +1,10 @@
+/*
+1. Find all Armstrong numbers between 100 and 2000. (An Armstrong number is a number whose
+sum of its digits each raised to the power of the number of digits equals the number itself - for
+example, 153=13+53+3
+3)
+*/
+
 #include <iostream>
 using namespace std;
 

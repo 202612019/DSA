@@ -1,4 +1,5 @@
-/*You are given an integer array nums.
+/*
+You are given an integer array nums.
 
 In one operation, you can either add 1 or subtract 1 from any element of the array.
 
@@ -46,7 +47,8 @@ Sample Output 1
 0
 Explanation 1
 
-All elements are already divisible by 3, so no operations are required.*/
+All elements are already divisible by 3, so no operations are required.
+*/
 #include <iostream>
 using namespace std;
 
