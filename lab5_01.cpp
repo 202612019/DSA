@@ -1,4 +1,7 @@
 /*
+The Forbidden ritual
+
+
 In an ancient laboratory, a ritual is represented by a sequence of six special symbols:
 
 ( ) [ ] { }

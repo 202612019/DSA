@@ -1,5 +1,5 @@
 /*
-A communication center has M signal towers arranged from left to right. Each tower has a unique signal-strength value.
+The Single Tower
 
 For every selected tower, the center wants to know the first tower appearing to its right whose signal strength is strictly greater than its own.
 
